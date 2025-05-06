@@ -113,13 +113,3 @@ Forecasts potential portfolio performance over a year, showcasing risk and retur
 - **Advanced Risk Metrics**: Include Value at Risk (VaR) and Conditional VaR for deeper risk analysis.
 
 ---
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-## Author
-
-Crafted with 💡 and 📈 to simplify portfolio analysis for investors and analysts alike.
